@@ -2,7 +2,7 @@
 Key ScanCode is a small gui utility to view the scan and virtual key codes<br />
 of individual keys on a keyboard.<br />
 
-I usually write all my scripts/praograms 100% from scratch, but this project<br />
+I usually write all my scripts/programs 100% from scratch, but this project<br />
 is a major alteration of the smaller ScanCode script found @<br />
 https://autohotkey.com/board/topic/21105-crazy-scripting-scriptlet-to-find-scancode-of-a-key/<br />
 by Skan (?). Nothing wrong with his script and he has a much more thorough script there, but<br />
