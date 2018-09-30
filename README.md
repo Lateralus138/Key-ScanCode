@@ -4,7 +4,7 @@ of individual keys on a keyboard.<br />
 
 I usually write all my scripts/programs 100% from scratch, but this project<br />
 is a major alteration of the smaller ScanCode script found @<br />
-https://autohotkey.com/board/topic/21105-crazy-scripting-scriptlet-to-find-scancode-of-a-key/<br />
+[Find Scan Codes @ AutoHotkey Forums](https://autohotkey.com/board/topic/21105-crazy-scripting-scriptlet-to-find-scancode-of-a-key/)<br />
 by Skan (?). Nothing wrong with his script and he has a much more thorough script there, but<br />
 I need something bigger than his smaller script and something smaller than his bigger one lol<br />
 
