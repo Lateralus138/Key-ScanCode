@@ -16,10 +16,10 @@ I need something bigger than his smaller script and something smaller than his b
 2. Pause reading input
 	
 ## Current Release
-[Key ScanCode 32Bit](https://github.com/Lateralus138/Key-ScanCode/releases/download/1.9.30.18/KeyScanCode_32bit.exe)
-[Key ScanCode 64Bit](https://github.com/Lateralus138/Key-ScanCode/releases/download/1.9.30.18/KeyScanCode_64bit.exe)
-[Project Page](https://github.com/Lateralus138/Key-ScanCode)
-[Latest Release Page](https://github.com/Lateralus138/Key-ScanCode/releases/tag/1.9.30.18)
+[Key ScanCode 32Bit](https://github.com/Lateralus138/Key-ScanCode/releases/download/1.9.30.18/KeyScanCode_32bit.exe)<br />
+[Key ScanCode 64Bit](https://github.com/Lateralus138/Key-ScanCode/releases/download/1.9.30.18/KeyScanCode_64bit.exe)<br />
+[Project Page](https://github.com/Lateralus138/Key-ScanCode)<br />
+[Latest Release Page](https://github.com/Lateralus138/Key-ScanCode/releases/tag/1.9.30.18)<br />
 
 ## Motivation
 I need something to view a keyboards codes for programming in AutoHotkey
