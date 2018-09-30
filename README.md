@@ -17,11 +17,13 @@ I need something bigger than his smaller script and something smaller than his b
 	
 ## Current Release
 1. [Key ScanCode 32Bit]
-	- LINK
+	- https://github.com/Lateralus138/Key-ScanCode/releases/download/1.9.30.18/KeyScanCode_32bit.exe
 1. [Key ScanCode 64Bit]
-	- LINK
+	- https://github.com/Lateralus138/Key-ScanCode/releases/download/1.9.30.18/KeyScanCode_64bit.exe
 1. [Project Page]
-	- LINK
+	- https://github.com/Lateralus138/Key-ScanCode
+1. [Latest Release Page]
+	- https://github.com/Lateralus138/Key-ScanCode/releases/tag/1.9.30.18
 	
 ## Motivation
 I need something to view a keyboards codes for programming in AutoHotkey
